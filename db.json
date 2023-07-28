@@ -1,310 +1,116 @@
 [
     {
         "_id": "63d979907da8ef33df1e55ab",
-        "__v": 0,
         "billable": "YES",
-        "date": "31/01/23",
-        "description": "Terminados los diseños en la seleccion de formularios, y se terminó de aplicar los cambios en base a el ultimo pdf de correcciones del cliente ",
-        "from": "09:00",
         "hours": "08:00",
-        "member": {
-            "_id": "62fbd72f4241ce0453f61234",
-            "name": "Axel Ibarra"
-        },
-        "projectId": null,
-        "to": "17:00",
         "extraHours": "NO"
     },
     {
-        "_id": "63d979437da8ef33df1e55a9",
-        "__v": 0,
+        "_id": "63d979907da8ef33df1e55ab",
         "billable": "YES",
-        "date": "30/01/23",
-        "description": "corregidas validaciones de 3 inputs en todos los formularios y evaluacion final arreglada, flow de la app funciona ",
-        "from": "09:00",
         "hours": "08:00",
-        "member": {
-            "_id": "62fbd72f4241ce0453f61234",
-            "name": "Axel Ibarra"
-        },
-        "projectId": null,
-        "to": "17:00",
         "extraHours": "NO"
     },
     {
-        "_id": "63d91dbb7da8ef33df1e5549",
-        "__v": 0,
+        "_id": "63d979907da8ef33df1e55ab",
         "billable": "YES",
-        "date": "29/01/23",
-        "description": "Diseño de los formularios modificado y arreglado el bug de la ultima evaluacion ",
-        "from": "09:00",
         "hours": "04:00",
-        "member": {
-            "_id": "62fbd72f4241ce0453f61234",
-            "name": "Axel Ibarra"
-        },
-        "projectId": null,
-        "to": "13:00",
-        "extraHours": "YES"
-    },
-    {
-        "_id": "63d91d547da8ef33df1e5548",
-        "__v": 0,
-        "billable": "YES",
-        "date": "27/01/23",
-        "description": "agregadas validaciones a los formularios de observacion y postparto ",
-        "from": "09:00",
-        "hours": "08:00",
-        "member": {
-            "_id": "62fbd72f4241ce0453f61234",
-            "name": "Axel Ibarra"
-        },
-        "projectId": null,
-        "to": "17:00",
         "extraHours": "NO"
     },
     {
-        "_id": "63d91d2f7da8ef33df1e5547",
-        "__v": 0,
+        "_id": "63d979907da8ef33df1e55ab",
         "billable": "YES",
-        "date": "26/01/23",
-        "description": "Agregadas validaciones al formulario A05, creado el apk de test ",
-        "from": "09:00",
         "hours": "08:00",
-        "member": {
-            "_id": "62fbd72f4241ce0453f61234",
-            "name": "Axel Ibarra"
-        },
-        "projectId": null,
-        "to": "17:00",
         "extraHours": "NO"
     },
     {
-        "_id": "63d91cec7da8ef33df1e5546",
-        "__v": 0,
+        "_id": "63d979907da8ef33df1e55ab",
         "billable": "YES",
-        "date": "25/01/23",
-        "description": "Creado componente de validaciones reutilizable para toda la app, probando validaciones locales en los componentes",
-        "from": "09:00",
         "hours": "08:00",
-        "member": {
-            "_id": "62fbd72f4241ce0453f61234",
-            "name": "Axel Ibarra"
-        },
-        "projectId": null,
-        "to": "17:00",
         "extraHours": "NO"
     },
     {
-        "_id": "63d91c7a7da8ef33df1e5545",
-        "__v": 0,
+        "_id": "63d979907da8ef33df1e55ab",
         "billable": "YES",
-        "date": "24/01/23",
-        "description": "cambiado los si/no de los formularios y sus respuestas, a checkboxes de ionic, se hizo un nuevo formulario de informacion para diferenciar el de la evaluacion final de el primero de la app",
-        "from": "09:00",
         "hours": "08:00",
-        "member": {
-            "_id": "62fbd72f4241ce0453f61234",
-            "name": "Axel Ibarra"
-        },
-        "projectId": null,
-        "to": "17:00",
         "extraHours": "NO"
     },
     {
-        "_id": "63d91bee7da8ef33df1e5544",
-        "__v": 0,
+        "_id": "63d979907da8ef33df1e55ab",
         "billable": "YES",
-        "date": "23/01/23",
-        "description": "Terminado el flow app, y el guardado de propiedades de la ultima evaluacion, la evaluacion final sigue bug, pero el flow de la app ya funciona",
-        "from": "09:00",
         "hours": "08:00",
-        "member": {
-            "_id": "62fbd72f4241ce0453f61234",
-            "name": "Axel Ibarra"
-        },
-        "projectId": null,
-        "to": "17:00",
-        "tagId": null,
         "extraHours": "NO"
     },
     {
-        "_id": "63d91bbc7da8ef33df1e5543",
-        "__v": 0,
+        "_id": "63d979907da8ef33df1e55ab",
         "billable": "YES",
-        "date": "20/01/23",
-        "description": "Empezando a arreglar la ultima evaluacion y el flow de la app, no guarda las propiedades, no habilita evaluacion final y flow de la applicacion esta bugeado",
-        "from": "09:00",
         "hours": "08:00",
-        "member": {
-            "_id": "62fbd72f4241ce0453f61234",
-            "name": "Axel Ibarra"
-        },
-        "projectId": null,
-        "to": "17:00",
         "extraHours": "NO"
     },
     {
-        "_id": "63d91af87da8ef33df1e5542",
-        "__v": 0,
+        "_id": "63d979907da8ef33df1e55ab",
         "billable": "YES",
-        "date": "18/01/23",
-        "description": "changed forms texts and inputs based on the last pdf 2022 ",
-        "from": "09:00",
         "hours": "08:00",
-        "member": {
-            "_id": "62fbd72f4241ce0453f61234",
-            "name": "Axel Ibarra"
-        },
-        "projectId": null,
-        "to": "17:00",
-        "tagId": null,
         "extraHours": "NO"
     },
     {
-        "_id": "63d911567da8ef33df1e5540",
-        "__v": 0,
+        "_id": "63d979907da8ef33df1e55ab",
         "billable": "YES",
-        "date": "17/01/23",
-        "description": "arreglado el endpoint de la api que recibe el ultimo formulario porque no estaba contemplado e iconos de toda la app",
-        "from": "09:00",
+        "hours": "08:00",
+        "extraHours": "NO"
+    },
+    {
+        "_id": "63d979907da8ef33df1e55ab",
+        "billable": "YES",
         "hours": "04:00",
-        "member": {
-            "_id": "62fbd72f4241ce0453f61234",
-            "name": "Axel Ibarra"
-        },
-        "projectId": null,
-        "to": "13:00",
-        "tagId": null,
         "extraHours": "NO"
     },
     {
-        "_id": "63d910ce7da8ef33df1e553f",
-        "__v": 0,
+        "_id": "63d979907da8ef33df1e55ab",
         "billable": "YES",
-        "date": "16/01/23",
-        "description": "links de referencia a formularios nuevos añadido, se cambo la redireccion del formulario 3 a su respectivo form y condiciones de minimo de evaluaciones realizadas a todos los formularios ",
-        "from": "09:00",
         "hours": "08:00",
-        "member": {
-            "_id": "62fbd72f4241ce0453f61234",
-            "name": "Axel Ibarra"
-        },
-        "projectId": null,
-        "to": "17:00",
         "extraHours": "NO"
     },
     {
-        "_id": "63d910647da8ef33df1e553e",
-        "__v": 0,
+        "_id": "63d979907da8ef33df1e55ab",
         "billable": "YES",
-        "date": "13/01/23",
-        "description": "refactor del form 06 junto con sus valdiaciones y cambio de textos, fixeado bug de backend con respecto al nuevio formulario",
-        "from": "09:00",
         "hours": "08:00",
-        "member": {
-            "_id": "62fbd72f4241ce0453f61234",
-            "name": "Axel Ibarra"
-        },
-        "projectId": null,
-        "to": "17:00",
         "extraHours": "NO"
     },
     {
-        "_id": "63d910117da8ef33df1e553d",
-        "__v": 0,
+        "_id": "63d979907da8ef33df1e55ab",
         "billable": "YES",
-        "date": "12/01/23",
-        "description": "añadido formulario 06 de historia clinica en el area mobile y backend",
-        "from": "09:00",
         "hours": "08:00",
-        "member": {
-            "_id": "62fbd72f4241ce0453f61234",
-            "name": "Axel Ibarra"
-        },
-        "projectId": null,
-        "to": "17:00",
         "extraHours": "NO"
     },
     {
-        "_id": "63d90d7d7da8ef33df1e553c",
-        "__v": 0,
+        "_id": "63d979907da8ef33df1e55ab",
         "billable": "YES",
-        "date": "11/01/23",
-        "description": "Arreglados formularios en base al pdf de el cliente, forms 4 y 5",
-        "from": "09:00",
         "hours": "08:00",
-        "member": {
-            "_id": "62fbd72f4241ce0453f61234",
-            "name": "Axel Ibarra"
-        },
-        "projectId": null,
-        "to": "17:00",
         "extraHours": "NO"
     },
     {
-        "_id": "63d90d0d7da8ef33df1e553b",
-        "__v": 0,
+        "_id": "63d979907da8ef33df1e55ab",
         "billable": "YES",
-        "date": "10/01/23",
-        "description": "Arreglados los formularios en base al pdf de el cliente de los foms 1, 2 y 3",
-        "from": "09:00",
         "hours": "08:00",
-        "member": {
-            "_id": "62fbd72f4241ce0453f61234",
-            "name": "Axel Ibarra"
-        },
-        "projectId": null,
-        "to": "17:00",
         "extraHours": "NO"
     },
     {
-        "_id": "63d90cd77da8ef33df1e553a",
-        "__v": 0,
+        "_id": "63d979907da8ef33df1e55ab",
         "billable": "YES",
-        "date": "05/01/23",
-        "description": "refactor completo del service para envío de correos y testeo de confirmación de usuarios a través de ese correo ",
-        "from": "09:00",
         "hours": "08:00",
-        "member": {
-            "_id": "62fbd72f4241ce0453f61234",
-            "name": "Axel Ibarra"
-        },
-        "projectId": null,
-        "to": "17:00",
         "extraHours": "NO"
     },
     {
-        "_id": "63d90be77da8ef33df1e5535",
-        "__v": 0,
+        "_id": "63d979907da8ef33df1e55ab",
         "billable": "YES",
-        "date": "04/01/23",
-        "description": "Cambiados los textos de todos los formularios y algunos de la aplicacion de escritorio según correciones por Ricardo ",
-        "from": "09:00",
         "hours": "08:00",
-        "member": {
-            "_id": "62fbd72f4241ce0453f61234",
-            "name": "Axel Ibarra"
-        },
-        "projectId": null,
-        "to": "17:00",
         "extraHours": "NO"
     },
     {
-        "_id": "63d90a857da8ef33df1e552e",
-        "__v": 0,
+        "_id": "63d979907da8ef33df1e55ab",
         "billable": "YES",
-        "date": "02/01/23",
-        "description": "Añadido el registro por UNICODE a la aplicacion de escritorio y fixeado link del correo electronico para confirmar el registro",
-        "from": "09:30",
         "hours": "08:00",
-        "member": {
-            "_id": "62fbd72f4241ce0453f61234",
-            "name": "Axel Ibarra"
-        },
-        "projectId": null,
-        "to": "17:30",
-        "tagId": null,
         "extraHours": "NO"
     }
 ]
